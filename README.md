@@ -2,4 +2,5 @@
 
 #### To Do
 
-- [ ] Add Git Repo
+- [x] Add Git Repo
+- [ ] Add poetry
