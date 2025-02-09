@@ -3,4 +3,10 @@
 #### To Do
 
 - [ ] Use AutoGen
-- [ ] Add Main Script
+- [x] Add Main Script
+
+#### Command
+
+```sh
+poetry run app
+```
