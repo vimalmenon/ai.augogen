@@ -34,27 +34,27 @@ trio = ["trio (>=0.26.1)"]
 
 [[package]]
 name = "autogen-agentchat"
-version = "0.4.5"
+version = "0.4.6"
 description = "AutoGen agents and teams library"
 optional = false
 python-versions = ">=3.10"
 files = [
-    {file = "autogen_agentchat-0.4.5-py3-none-any.whl", hash = "sha256:76f6fff7ae1ec4eb34f437df6a2a781995c4ed6679e7a6297cfcd89ff9d7791f"},
-    {file = "autogen_agentchat-0.4.5.tar.gz", hash = "sha256:a8d5493b4ec6c45f4d40c33c6d3bb98a6409f7a6428ce4fa9645e51bfe2d7408"},
+    {file = "autogen_agentchat-0.4.6-py3-none-any.whl", hash = "sha256:dd1effd71af8297edae80b7a84fc42d1ba575b6bf596614ca140a8cba8192185"},
+    {file = "autogen_agentchat-0.4.6.tar.gz", hash = "sha256:f2c32b3c6ab9f14b06fc06701a591e0a43691f9d2aa9ba50c8c6cd028744aa09"},
 ]
 
 [package.dependencies]
-autogen-core = "0.4.5"
+autogen-core = "0.4.6"
 
 [[package]]
 name = "autogen-core"
-version = "0.4.5"
+version = "0.4.6"
 description = "Foundational interfaces and agent runtime implementation for AutoGen"
 optional = false
 python-versions = ">=3.10"
 files = [
-    {file = "autogen_core-0.4.5-py3-none-any.whl", hash = "sha256:99b5b0217d3bd4dc317e2ff49ee0340f09a4ac42337e6b227651512d8eb31e9a"},
-    {file = "autogen_core-0.4.5.tar.gz", hash = "sha256:dbe09ba585bef18a099bfbcc494385cb383085633eea9e3fd25d0d39393a53be"},
+    {file = "autogen_core-0.4.6-py3-none-any.whl", hash = "sha256:3528f83babd9794bd5aa6b21b307c4a1257160cc5ecf78b19daac42e83cb4c4d"},
+    {file = "autogen_core-0.4.6.tar.gz", hash = "sha256:ca138644419155e587676e2e7ee487f6e23a10b4dd96a6a21ee013812ce6dc00"},
 ]
 
 [package.dependencies]
@@ -375,13 +375,13 @@ files = [
 
 [[package]]
 name = "openai"
-version = "1.61.1"
+version = "1.62.0"
 description = "The official Python library for the openai API"
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "openai-1.61.1-py3-none-any.whl", hash = "sha256:72b0826240ce26026ac2cd17951691f046e5be82ad122d20a8e1b30ca18bd11e"},
-    {file = "openai-1.61.1.tar.gz", hash = "sha256:ce1851507218209961f89f3520e06726c0aa7d0512386f0f977e3ac3e4f2472e"},
+    {file = "openai-1.62.0-py3-none-any.whl", hash = "sha256:dcb7f9fb4fbc3f27e3ffd2d7bf045be9211510d7fafefcef7ad2302cb27484e0"},
+    {file = "openai-1.62.0.tar.gz", hash = "sha256:ef3f6864ae2f75fa6296bc9811acf684b95557fcb611fe95734215a8b9150b43"},
 ]
 
 [package.dependencies]
