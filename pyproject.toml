@@ -6,9 +6,13 @@ authors = ["Vimal Menon <69777626+vimalsmenon@users.noreply.github.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = ">=3.11,<3.14"
 autogen-agentchat = "^0.4.5"
 openai = "^1.61.1"
+litellm = "^1.61.1"
+autogen = "^0.7.4"
+langchain = "^0.3.19"
+langchain-ollama = "^0.2.3"
 
 
 [tool.poetry.group.dev.dependencies]

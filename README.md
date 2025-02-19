@@ -3,8 +3,9 @@
 #### To Do
 
 - [ ] Use AutoGen
-- [x] Add Black
 - [ ] Add env
+- [ ] Expose deepseek on ollama
+- [ ] Use langchain
 
 #### Command
 
